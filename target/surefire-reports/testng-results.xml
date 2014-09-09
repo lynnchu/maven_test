@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="99" started-at="2014-08-29T10:15:42Z" finished-at="2014-08-29T10:15:42Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="99" started-at="2014-08-29T10:15:42Z" finished-at="2014-08-29T10:15:42Z">
+      <class name="MavenTest.TestModule2.TestCaseJar">
+        <test-method status="PASS" signature="testcaseJar()[pri:0, instance:MavenTest.TestModule2.TestCaseJar@1e0be38]" name="testcaseJar" duration-ms="19" started-at="2014-08-29T18:15:42Z" finished-at="2014-08-29T18:15:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcaseJar -->
+      </class> <!-- MavenTest.TestModule2.TestCaseJar -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
