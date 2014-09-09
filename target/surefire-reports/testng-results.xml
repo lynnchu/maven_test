@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Command line suite" duration-ms="99" started-at="2014-08-29T10:15:42Z" finished-at="2014-08-29T10:15:42Z">
+  <suite name="Command line suite" duration-ms="36" started-at="2014-09-09T09:57:37Z" finished-at="2014-09-09T09:57:37Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="99" started-at="2014-08-29T10:15:42Z" finished-at="2014-08-29T10:15:42Z">
+    <test name="Command line test" duration-ms="36" started-at="2014-09-09T09:57:37Z" finished-at="2014-09-09T09:57:37Z">
       <class name="MavenTest.TestModule2.TestCaseJar">
-        <test-method status="PASS" signature="testcaseJar()[pri:0, instance:MavenTest.TestModule2.TestCaseJar@1e0be38]" name="testcaseJar" duration-ms="19" started-at="2014-08-29T18:15:42Z" finished-at="2014-08-29T18:15:42Z">
+        <test-method status="PASS" signature="testcaseJar()[pri:0, instance:MavenTest.TestModule2.TestCaseJar@1e0be38]" name="testcaseJar" duration-ms="16" started-at="2014-09-09T17:57:37Z" finished-at="2014-09-09T17:57:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testcaseJar -->

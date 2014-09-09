@@ -9,7 +9,7 @@
       <!--  class name="webdriver_common_API.TestCase"/-->
       <!-- class name="TestData.testData"/-->
       <!-- class name="autoItTest.AlipayTest"/-->
-      <class name ="TestSqlLiteCon.TestSqlLite" />
+      <class name ="MavenTest.TestCases.TestCase_Login163" />
       
     </classes>
   </test> 
