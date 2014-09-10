@@ -17,7 +17,6 @@
    <defaultGoal>compile</defaultGoal>
     <plugins> 
 <!--  for XML-->
- 
      <plugin>
       <artifactId>maven-surefire-plugin</artifactId>
       <version>2.4</version>
