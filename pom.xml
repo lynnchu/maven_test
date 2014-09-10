@@ -17,7 +17,7 @@
    <defaultGoal>compile</defaultGoal>
     <plugins> 
 <!--  for XML-->
-<!-- 
+ 
      <plugin>
       <artifactId>maven-surefire-plugin</artifactId>
       <version>2.4</version>
@@ -27,7 +27,6 @@
          </suiteXmlFiles>        
       </configuration>
      </plugin> 
-   -->   
    <!--  maven mutli threads: two thread run one case ,one thread run two cases, the previous is more efficent -->
 <!--      
 	<plugin>
@@ -51,7 +50,7 @@
     
      -->
     <!-- for Java -->
-    
+<!--     
    <plugin>
       <artifactId>maven-surefire-plugin</artifactId>
       <version>2.4</version>
@@ -61,7 +60,7 @@
        </includes>
       </configuration>
      </plugin> 
-     
+      -->
         
     </plugins>
   </build>

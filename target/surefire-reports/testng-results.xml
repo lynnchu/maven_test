@@ -2,16 +2,24 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Command line suite" duration-ms="36" started-at="2014-09-09T09:57:37Z" finished-at="2014-09-09T09:57:37Z">
+  <suite name="Default suite" duration-ms="63829" started-at="2014-09-10T04:57:19Z" finished-at="2014-09-10T04:58:23Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="36" started-at="2014-09-09T09:57:37Z" finished-at="2014-09-09T09:57:37Z">
-      <class name="MavenTest.TestModule2.TestCaseJar">
-        <test-method status="PASS" signature="testcaseJar()[pri:0, instance:MavenTest.TestModule2.TestCaseJar@1e0be38]" name="testcaseJar" duration-ms="16" started-at="2014-09-09T17:57:37Z" finished-at="2014-09-09T17:57:37Z">
+    <test name="Default test" duration-ms="63829" started-at="2014-09-10T04:57:19Z" finished-at="2014-09-10T04:58:23Z">
+      <class name="MavenTest.TestCases.TestCase_Login163">
+        <test-method status="PASS" signature="intial()[pri:0, instance:MavenTest.TestCases.TestCase_Login163@789144]" name="intial" is-config="true" duration-ms="5123" started-at="2014-09-10T12:57:19Z" finished-at="2014-09-10T12:57:24Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testcaseJar -->
-      </class> <!-- MavenTest.TestModule2.TestCaseJar -->
-    </test> <!-- Command line test -->
-  </suite> <!-- Command line suite -->
+        </test-method> <!-- intial -->
+        <test-method status="PASS" signature="testLogin163()[pri:0, instance:MavenTest.TestCases.TestCase_Login163@789144]" name="testLogin163" duration-ms="56723" started-at="2014-09-10T12:57:24Z" finished-at="2014-09-10T12:58:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin163 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:MavenTest.TestCases.TestCase_Login163@789144]" name="afterClass" is-config="true" duration-ms="1959" started-at="2014-09-10T12:58:21Z" finished-at="2014-09-10T12:58:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- MavenTest.TestCases.TestCase_Login163 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

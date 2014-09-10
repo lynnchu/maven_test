@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite verbose="0" name="Failed suite [Command line suite]">
-  <test name="Command line test(failed)">
+<suite verbose="0" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
     <classes>
-      <class name="MavenTest.TestModule2.TestCaseJar">
+      <class name="MavenTest.TestCases.TestCase_Login163">
         <methods>
-          <include name="testcaseJar"/>
+          <include name="afterClass"/>
+          <include name="intial"/>
+          <include name="testLogin163"/>
         </methods>
-      </class> <!-- MavenTest.TestModule2.TestCaseJar -->
+      </class> <!-- MavenTest.TestCases.TestCase_Login163 -->
     </classes>
-  </test> <!-- Command line test(failed) -->
-</suite> <!-- Failed suite [Command line suite] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
